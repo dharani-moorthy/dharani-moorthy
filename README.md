@@ -2,9 +2,7 @@
 A passionate Software Engineer.
 
 Email Me 👉 ✉️ dharanimoorthy51@gmail.com For Collaboration/Project or Anything Else. 😊😊
-
-🎓 I'm pursuing my Bachelor’s in Robotics and Automation Engineering (Honours) at Anna University.<br>💻 Passionate about coding, automation, and 3D design, with a focus on connecting software intelligence to real-world systems.<br>🧠 Currently exploring Java development, data structures, and industrial automation integration.<br>🤖 Skilled in Java (with DSA), Python (OpenCV, Tkinter), HTML, SQL, Fusion 360, CATIA V5, and TIA Portal.<br>🤝 Open to collaborating on Java-based or robotics-oriented open-source projects that challenge my logic and creativity.<br>🎯 Motto: “Build, Automate, and Innovate.”<br>⚡ Fun Fact: I love bringing machines to life — both virtually through code and physically through design!
-
+👋 Hi, I’m Dharani M, a Robotics & Automation Engineering graduate 🎓 with Honours, passionate about 💻 Software Development, 🤖 Robotics, and 🚀 emerging technologies. I enjoy transforming creative ideas 💡 into practical, real-world applications through coding and problem-solving. 🛠️ I have hands-on knowledge of Java, Python, MySQL, HTML, CSS, Git, and modern web development technologies. 🌐 I love building responsive, user-friendly, and meaningful digital experiences. 🤖 My Robotics background inspires me to explore the intersection of automation, AI, and software engineering. 🌱 I’m continuously learning new technologies and improving my development skills every day. 🔍 I enjoy solving challenges, experimenting with new ideas, and turning concepts into working projects. 🚀 Currently, I’m focused on growing as a Full-Stack / Software Developer while exploring Java, Spring Boot, and AI. 📚 I believe consistent learning, creativity, and building projects are the keys to becoming a better developer. ✨ My goal is to create innovative, scalable, and impactful technology solutions while growing with the ever-evolving world of software.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dharani-moorthy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
